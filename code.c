@@ -1,4 +1,4 @@
-//Yusuf Mert Köseoðlu 2152072
+
 
 
 #include<stdio.h>
